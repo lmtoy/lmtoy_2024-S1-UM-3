@@ -19,6 +19,9 @@ on["Core_43"] =  [ 113275, 113277,]
 
 on["Core_56"] =  [ 113281, 113283,]
 
+on["Core_59"] =  [ 113416, 113418,]
+
+on["Core_62"] =  [ 113422, 113424,]
 
 
 #        common parameters per source on the first dryrun (run1a, run2a)
@@ -27,6 +30,8 @@ pars1["Core_41"] = ""
 pars1["Core_42"] = ""
 pars1["Core_43"] = ""
 pars1["Core_56"] = ""
+pars1["Core_59"] = ""
+pars1["Core_62"] = ""
 
 
 
@@ -36,12 +41,18 @@ pars2["Core_41"] = ""
 pars2["Core_42"] = ""
 pars2["Core_43"] = ""
 pars2["Core_56"] = ""
+pars2["Core_59"] = ""
+pars2["Core_62"] = ""
+
 
 pars3 = {}
 pars3["Core_41"] = ""
 pars3["Core_42"] = ""
 pars3["Core_43"] = ""
 pars3["Core_56"] = ""
+pars3["Core_59"] = ""
+pars3["Core_62"] = ""
+
 
 if __name__ == '__main__':    
     runs.mk_runs(project, on, pars1, pars2, pars3, sys.argv)
