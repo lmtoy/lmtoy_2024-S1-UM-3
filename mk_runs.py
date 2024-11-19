@@ -13,6 +13,8 @@ on = {}
 
 on["Core_131"] = [ 115030, 116477,]
 
+on["Core_187"] = [ 121217, 121219,]
+
 on["Core_41"] =  [ 112173, 112185,]
 
 on["Core_42"] =  [ 112187, 112191,]
@@ -29,6 +31,7 @@ on["Core_62"] =  [ 113422, 113424,]
 #        common parameters per source on the first dryrun (run1a, run2a)
 pars1 = {}
 pars1["Core_131"] = ""
+pars1["Core_187"] = ""
 pars1["Core_41"] = ""
 pars1["Core_42"] = ""
 pars1["Core_43"] = ""
@@ -41,6 +44,7 @@ pars1["Core_62"] = ""
 #        common parameters per source on subsequent runs (run1b, run2b)
 pars2 = {}
 pars2["Core_131"] = ""
+pars2["Core_187"] = ""
 pars2["Core_41"] = ""
 pars2["Core_42"] = ""
 pars2["Core_43"] = ""
@@ -51,6 +55,7 @@ pars2["Core_62"] = ""
 
 pars3 = {}
 pars3["Core_131"] = ""
+pars3["Core_187"] = ""
 pars3["Core_41"] = ""
 pars3["Core_42"] = ""
 pars3["Core_43"] = ""
