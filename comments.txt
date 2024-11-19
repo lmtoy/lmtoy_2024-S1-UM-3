@@ -1,2 +1,17 @@
 #  <obsnum>   <comment>     # <SLpipeline args>
-#123456    QAFAIL     # ...
+112173 <bad run>
+112185 both
+112187 ~1 K [1]
+112191 ~1 K [1]
+113275 bad [1], some in [0]
+113277 both
+113281 [1] ok, but has strong spike
+113283 both
+113416 [1] has spike
+113418 <bad run>
+113422 both
+113424 [1]
+115030 [1] bad baseline, no signal
+116477 [1] has spike
+121217 ~20K [1]
+121219 ~0.5K [1]
