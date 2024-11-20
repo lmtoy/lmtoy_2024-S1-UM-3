@@ -21,6 +21,12 @@ on["Core_42"] =  [ 112187, 112191,]
 
 on["Core_43"] =  [ 113275, 113277,]
 
+on["Core_48"] =  [ 122603, 122605,]
+
+on["Core_51"] =  [ 122611, 122613,]
+
+on["Core_52"] =  [ 122619, 122621,]
+
 on["Core_56"] =  [ 113281, 113283,]
 
 on["Core_59"] =  [ 113416, 113418,]
@@ -35,6 +41,9 @@ pars1["Core_187"] = ""
 pars1["Core_41"] = ""
 pars1["Core_42"] = ""
 pars1["Core_43"] = ""
+pars1["Core_48"] = ""
+pars1["Core_51"] = ""
+pars1["Core_52"] = ""
 pars1["Core_56"] = ""
 pars1["Core_59"] = ""
 pars1["Core_62"] = ""
@@ -48,6 +57,9 @@ pars2["Core_187"] = ""
 pars2["Core_41"] = ""
 pars2["Core_42"] = ""
 pars2["Core_43"] = ""
+pars2["Core_48"] = ""
+pars2["Core_51"] = ""
+pars2["Core_52"] = ""
 pars2["Core_56"] = ""
 pars2["Core_59"] = ""
 pars2["Core_62"] = ""
@@ -59,6 +71,9 @@ pars3["Core_187"] = ""
 pars3["Core_41"] = ""
 pars3["Core_42"] = ""
 pars3["Core_43"] = ""
+pars3["Core_48"] = ""
+pars3["Core_51"] = ""
+pars3["Core_52"] = ""
 pars3["Core_56"] = ""
 pars3["Core_59"] = ""
 pars3["Core_62"] = ""
