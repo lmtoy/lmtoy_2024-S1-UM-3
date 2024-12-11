@@ -17,6 +17,10 @@ on["Core_139"] = [ 124713, 124715,]
 
 on["Core_146"] = [ 124717, 124719,]
 
+on["Core_150"] = [ 124846, 124848,]
+
+on["Core_156"] = [ 124854, 124856,]
+
 on["Core_155"] = [ 123162, 123164,]
 
 on["Core_166"] = [ 123335, 123341, 123343,]
@@ -63,7 +67,9 @@ pars1 = {}
 pars1["Core_131"] = ""
 pars1["Core_139"] = ""
 pars1["Core_146"] = ""
+pars1["Core_150"] = ""
 pars1["Core_155"] = ""
+pars1["Core_156"] = ""
 pars1["Core_166"] = ""
 pars1["Core_175"] = ""
 pars1["Core_187"] = ""
@@ -93,7 +99,9 @@ pars2 = {}
 pars2["Core_131"] = ""
 pars2["Core_139"] = ""
 pars2["Core_146"] = ""
+pars2["Core_150"] = ""
 pars2["Core_155"] = ""
+pars2["Core_156"] = ""
 pars2["Core_166"] = ""
 pars2["Core_175"] = ""
 pars2["Core_187"] = ""
